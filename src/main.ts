@@ -4,10 +4,10 @@ import "swagger-ui/dist/swagger-ui.css";
 
 SwaggerUI({
   urls: [
-    { url: "./specs/petstore.json", name: "JSON — Pet Store" },
+    { url: "./specs/petstore.json", name: "Pet Store — JSON" },
     {
-      url: "./specs/petstore-expanded.yaml",
-      name: "YAML — Pet Store Expanded",
+      url: "./specs/petstore.yaml",
+      name: "Pet Store — YAML",
     },
   ],
   dom_id: "#app",
