@@ -37,3 +37,7 @@ pnpm run dev
 pnpm run build
 pnpm run preview
 ```
+
+## Demo
+
+![Demo](./demo.gif)
